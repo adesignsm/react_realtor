@@ -12,7 +12,7 @@ const Layout = ({children}) => (
             <title>Real Estate</title> 
         </Head>
 
-        <Box maxWidth = "1920px" m = "auto" p = "auto" bg = "#333">
+        <Box maxWidth = "1920px" m = "auto" p = "auto">
             <header>
                 <NavBar />
             </header>
